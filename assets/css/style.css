@@ -180,5 +180,40 @@ h2 {
     position: absolute;
     bottom: 400px;
     right: 553px;
-    background-color: #f2f2f2;
+    background-color: #4aaaa5;
+}
+
+#zelda {
+    position: absolute;
+    bottom: 400px;
+    right: 420px;
+    background-color: #4aaaa5;
+}
+
+#doom {
+    position: absolute;
+    bottom: 250px;
+    right: 559px;
+    background-color: #4aaaa5;
+}
+
+#skies {
+    position: absolute;
+    bottom: 250px;
+    right: 420px;
+    background-color: #4aaaa5;
+}
+
+#wc {
+    position: absolute;
+    bottom: 90px;
+    right: 569px;
+    background-color: #4aaaa5;
+}
+
+#wizardry {
+    position: absolute;
+    bottom: 90px;
+    right: 398px;
+    background-color: #4aaaa5;
 }
