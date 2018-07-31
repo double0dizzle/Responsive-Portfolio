@@ -44,7 +44,7 @@ aside {
     width: 100%;
     background: #275064;
     padding-top: 10px;
-    height: 600px;
+    height: 600px; 
     border-top: 2px solid #464073;
     
     
@@ -217,3 +217,72 @@ h2 {
     right: 398px;
     background-color: #4aaaa5;
 }
+
+@media screen and (max-width: 980px) {
+
+    #container {
+        max-width: 100%;
+    }
+
+    #portfolio {
+        max-width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #container {
+        max-width: 100%;
+    }
+
+    #portfolio {
+        max-width: 100%;
+    }
+
+    header {
+        display: none;
+    }
+    
+}
+
+@media screen and (max-width: 640px) {
+   body {
+        background-color: #131304;
+   }
+
+    #container {
+        max-width: 100%;
+    }
+
+    #portfolio {
+        max-width: 100%;
+        margin-left: 0px; 
+     }
+
+    #top {
+        display: none;
+    }
+
+    /* #backdrop {  
+        background-color: none;
+    }*/
+
+    #about {
+        max-width: 100%;
+        margin-left: 0px;
+    }
+
+    #thick {
+        display: none;
+    }
+
+    #thin {
+        display: none;
+    }
+
+
+
+}
+    
+    
+
+
